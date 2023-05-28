@@ -2,4 +2,4 @@ Ceci est le contenu du premier fichier. Modification sur branche aiguillage.
 
 Test sur les conflits.
 
-Coin coin.
+Coin coin. depuis aiguillage
