@@ -2,4 +2,4 @@ Ceci est le contenu du premier fichier.
 
 Test sur les conflits.
 
-Modif depuis branche master.
+Modif depuis branche 3.
