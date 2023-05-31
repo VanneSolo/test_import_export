@@ -1,5 +1,3 @@
 Ceci est le contenu du premier fichier.
 
-Test sur les conflits.
-
-Modif depuis branche 3.
+Test pour créer et résoudre un conflit.
